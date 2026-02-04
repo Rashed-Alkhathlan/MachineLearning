@@ -1,1 +1,1 @@
-Main Repo for Machine Learning Labs
+Main Repository for Machine Learning Course Labs
