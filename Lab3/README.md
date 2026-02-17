@@ -1,4 +1,4 @@
-## Project Overview
+## Lab 3 Overview
 
 This notebook performs Exploratory Data Analysis (EDA) on a product reviews dataset, including numeric, categorical, and text features.
 
