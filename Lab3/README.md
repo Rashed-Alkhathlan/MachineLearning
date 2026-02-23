@@ -12,6 +12,6 @@ Univariate Analysis: summary statistics, histograms, boxplots, frequency counts.
 
 Bivariate Analysis: correlations, scatterplots, boxplots per category, top-N frequency analysis.
 
-### Part 2
+### Part 2:
 
-added Comments and explanations to the code.
+Added Comments and explanations to the code.
