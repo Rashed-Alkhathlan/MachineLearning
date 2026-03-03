@@ -14,4 +14,4 @@ Bivariate Analysis: correlations, scatterplots, boxplots per category, top-N fre
 
 ### Part 2:
 
-Added Comments and explanations to the code.
+Added Comments and explanations to Matplot and Seaborn files.
