@@ -6,9 +6,9 @@ Dataset columns include product info (product_id, product_name, category), prici
 
 ### EDA Techniques
 
-  1- **Data Cleaning:** removed symbols, converted numeric types, exploded multi-label categories.
-  2- **Univariate Analysis:** summary statistics, histograms, boxplots, frequency counts.
-  3- **Bivariate Analysis:** correlations, scatterplots, boxplots per category, top-N frequency analysis.
+  1. **Data Cleaning:** removed symbols, converted numeric types, exploded multi-label categories.
+  2. **Univariate Analysis:** summary statistics, histograms, boxplots, frequency counts.
+  3. **Bivariate Analysis:** correlations, scatterplots, boxplots per category, top-N frequency analysis.
 
 ### Part 2:
 
